@@ -1,2 +1,6 @@
 RemoteSystemsTempFiles
 */bin
+
+#eclipse
+.metadata
+.recommenders
