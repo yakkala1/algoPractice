@@ -61,5 +61,5 @@ public class Solution {
 			return adjacencyListArray[from];
 		}
 	}
-	
+
 }

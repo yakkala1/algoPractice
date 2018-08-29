@@ -14,9 +14,9 @@ public class Solution {
         for(int i=0; i<n; i++) {
         	edgesOfNodes.put(i , new ArrayList<Edge>());
         }
-        for(int[] flight : flights) {
-            Edge edge = new Edge(flight);
-        }
+//        for(int[] flight : flights) {
+ //           Edge edge = new Edge(flight);
+  //      }
         
         int[] totalCost = new int[n];
         for(int i=0; i<n; i++) {
